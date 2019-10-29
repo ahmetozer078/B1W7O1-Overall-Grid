@@ -145,3 +145,7 @@ ul{
 	margin-top: 110px;
 
 }
+a{
+	text-decoration: none;
+	color: red;
+}
